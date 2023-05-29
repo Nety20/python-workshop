@@ -5,10 +5,10 @@
 The main goal of the training is to improve the capacity of ICPAC staff in the use and
 applications of Python programming for hydrological and climate forecast modeling.
 
-##OBJECTIVES
+##OBJECTIVES:
 * Learn more on python scripting 
 * Learn on how to use the git 
-*Learn on Impact based forecasting using CLIMADA
+* Learn on Impact based forecasting using CLIMADA
 
 ## Outputs/Outcomes:
 * Understanding basic Python concepts and libraries (netCDF manipulation files,
