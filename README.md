@@ -20,4 +20,9 @@ applications of Python programming for hydrological and climate forecast modelin
 
 ## JupyterHub link
 
-af9a8414a039f4343a9f7441b7b2e4b8-999135056.us-east-1.elb.amazonaws.com
+http://a94ac4fe637b742bebcea7217f21622c-545993365.us-east-1.elb.amazonaws.com/
+
+
+## Data download link
+
+https://igadint-my.sharepoint.com/:u:/g/personal/nishadh_kalladath_igad_int/EU3_tSGdPIZGuIyeNETAV0gBXgD7MbjFpSN65QJnRBk4Jw?e=2DSUCc
